@@ -49,13 +49,13 @@
   }
 
   .custom-scrollbar::-webkit-scrollbar-thumb {
-    background: #E59136;
+    background: #EA580C;
     border-radius: 3px;
-    background: linear-gradient(to bottom, #E59136, #F1D34B);
+    background: linear-gradient(to bottom, #EA580C, #F59E0B);
   }
 
   .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(to bottom, #d1812d, #e6c743);
+    background: linear-gradient(to bottom, #DC2626, #F59E0B);
   }
 
   /* Smooth animations */
